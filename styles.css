@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+form {
+    display: flex;
+    justify-content: center;
+}
+
+#toDoContainer {
+    display: grid;
+    justify-content: center;
+    margin-top: 36px;
+}
